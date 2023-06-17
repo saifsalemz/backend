@@ -1,0 +1,243 @@
+{
+    "wordList": [
+        {
+            "id": 1,
+            "word": "slowly",
+            "pos": "adverb"
+        },
+        {
+            "id": 2,
+            "word": "ride",
+            "pos": "verb"
+        },
+        {
+            "id": 3,
+            "word": "bus",
+            "pos": "noun"
+        },
+        {
+            "id": 4,
+            "word": "commute",
+            "pos": "verb"
+        },
+        {
+            "id": 5,
+            "word": "emissions",
+            "pos": "noun"
+        },
+        {
+            "id": 6,
+            "word": "walk",
+            "pos": "verb"
+        },
+        {
+            "id": 7,
+            "word": "fast",
+            "pos": "adjective"
+        },
+        {
+            "id": 8,
+            "word": "car",
+            "pos": "noun"
+        },
+        {
+            "id": 9,
+            "word": "crowded",
+            "pos": "adjective"
+        },
+        {
+            "id": 10,
+            "word": "arrival",
+            "pos": "noun"
+        },
+        {
+            "id": 11,
+            "word": "emit",
+            "pos": "verb"
+        },
+        {
+            "id": 12,
+            "word": "independent",
+            "pos": "adjective"
+        },
+        {
+            "id": 13,
+            "word": "convenient",
+            "pos": "adjective"
+        },
+        {
+            "id": 14,
+            "word": "lane",
+            "pos": "noun"
+        },
+        {
+            "id": 15,
+            "word": "heavily",
+            "pos": "adverb"
+        },
+        {
+            "id": 16,
+            "word": "door",
+            "pos": "noun"
+        },
+        {
+            "id": 17,
+            "word": "kite",
+            "pos": "noun"
+        },
+        {
+            "id": 18,
+            "word": "ball",
+            "pos": "noun"
+        }
+    ],
+    "scoresList": [
+        {
+            "name": "Zahra",
+            "score": 20
+        },
+        {
+            "name": "Amir",
+            "score": 90
+        },
+        {
+            "name": "Layla",
+            "score": 100
+        },
+        {
+            "name": "Faris",
+            "score": 50
+        },
+        {
+            "name": "Amina",
+            "score": 10
+        },
+        {
+            "name": "Yasir",
+            "score": 50
+        },
+        {
+            "name": "Noura",
+            "score": 60
+        },
+        {
+            "name": "Khalid",
+            "score": 0
+        },
+        {
+            "name": "Samira",
+            "score": 60
+        },
+        {
+            "name": "Hassan",
+            "score": 10
+        },
+        {
+            "name": "Fatima",
+            "score": 90
+        },
+        {
+            "name": "Malik",
+            "score": 30
+        },
+        {
+            "name": "Salma",
+            "score": 100
+        },
+        {
+            "name": "Sara",
+            "score": 30
+        },
+        {
+            "name": "Ahmed",
+            "score": 20
+        },
+        {
+            "name": "Aisha",
+            "score": 90
+        },
+        {
+            "name": "Kareem",
+            "score": 40
+        },
+        {
+            "name": "Hana",
+            "score": 20
+        },
+        {
+            "name": "Omar",
+            "score": 10
+        },
+        {
+            "name": "Laila",
+            "score": 60
+        },
+        {
+            "name": "Rashid",
+            "score": 50
+        },
+        {
+            "name": "Leila",
+            "score": 100
+        },
+        {
+            "name": "Nadia",
+            "score": 50
+        },
+        {
+            "name": "Karim",
+            "score": 80
+        },
+        {
+            "name": "Amira",
+            "score": 50
+        },
+        {
+            "name": "Rania",
+            "score": 80
+        },
+        {
+            "name": "Youssef",
+            "score": 60
+        },
+        {
+            "name": "Aaliyah",
+            "score": 80
+        },
+        {
+            "name": "Ali",
+            "score": 10
+        },
+        {
+            "name": "Safiya",
+            "score": 40
+        },
+        {
+            "name": "Saif Salem",
+            "score": 100
+        },
+        {
+            "name": "Saif",
+            "score": 100
+        },
+        {
+            "name": "saif",
+            "score": 100
+        },
+        {
+            "name": "Saif Salem",
+            "score": 100
+        },
+        {
+            "name": "saif",
+            "score": 100
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "nagwa",
+            "password": "$2b$10$eW4ZwTTjx9obUWSw36U9jeiHFKcnNex96b4rVguvWceX8CYgLxTQe"
+        }
+    ]
+}
